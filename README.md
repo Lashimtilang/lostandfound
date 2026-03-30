@@ -30,16 +30,20 @@ steps 2: Move Project to server Directory
           .htdocs(if using XAMPP)
            Example:\xampp\htdocs\lostfound
 
-steps 3: Start Apache and MySQL
- .Open XAMPP Control Panel
- .start:
-    .Apache
-    .MySQL
+steps 3: Start Apache and MySQL:
+
+          .Open XAMPP Control Panel
+           .start:
+              .Apache
+              .MySQL
  
-steps 4: Setup the Database
-           Open the Database
+steps 4: Setup the Database:
+
+           Open the Database:
+           
               1. Open your browser and go to:
-                    http://localhost/phpmyadmin
+                    http://localhost/phpmyadmin.
+                    
               2. create a new database:
                      lostfound
 
@@ -49,14 +53,14 @@ steps 4: Setup the Database
                   . Click Go
 
 steps 5: Configure Database Connection
-         . Open your project file(e.g., db.php)
+         . Open your project file(e.g., db.php).
          . Update the database details:
                 $host = "localhost";
                 $user = "root";
                 $password = "";
                 $database = "lostfound";
 
-steps 6: Run the Project
+steps 6: Run the Project:
           Open your browser and go to:
                 http://localhost/lostfound
 
