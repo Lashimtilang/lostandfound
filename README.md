@@ -1,22 +1,23 @@
-Project Title
+Project Title:
 "Lost and Found Portal Within the Campus"
 
-Description
+Description:
 The Lost and Found Portal is a web-based application designed to help students and staff report,search, and recover lost item within the campus.Users can post details of lost or found items, and an claim or return items efficiently.
-Prerequisites
+
+Prerequisites:
 Make sure to have the following installed before running the project:
-Frontend:
- .HTML
- .CSS
- .JavaScript
-Backend:
- . PHP
- .Session Management for authentication
-Database:
- . MySQL
- . Managed using XAMPP (Apache + MySQL)
-Git
-Web Browser(Chrome,Edge, etc.)
+1. Frontend:
+     .HTML
+     .CSS
+     .JavaScript
+2. Backend:
+     . PHP
+     .Session Management for authentication
+3. Database:
+     . MySQL
+     . Managed using XAMPP (Apache + MySQL)
+4. Git
+5. Web Browser(Chrome,Edge, etc.)
 
 
 Installation Steps:
