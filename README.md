@@ -21,6 +21,7 @@ Make sure to have the following installed before running the project:
 
 
 Installation Steps:
+
 steps 1: git clone
            https://github.com/Lashimtilang/lostfound/new/main?filename=README.md.
 
